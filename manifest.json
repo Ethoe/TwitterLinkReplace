@@ -22,7 +22,7 @@
   },
   "host_permissions": [
     {
-      "host": "x.com",
+      "host": ["x.com", "www.x.com"],
       "include_subdomains": true,
       "scheme": "https"
     }
